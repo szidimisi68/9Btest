@@ -1,0 +1,9 @@
+cd
+dir
+git clone https://github.com/szidimisi68/9BDolgozat.git
+git config --global user.name
+git config --global user.email
+git status
+git add utasitasok.txt
+git commit -m "Szidor Mihály"
+git push origin master / git push
