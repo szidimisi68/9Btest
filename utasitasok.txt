@@ -1,0 +1,4 @@
+git checkout
+git diff HEAD
+git reset
+git pull origin master vagy ha cloneozva van elég a git pull
