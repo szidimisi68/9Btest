@@ -1,0 +1,38 @@
+
+link: https://codepen.io/szidimisi68/pen/mdEebze?editors=1100
+
+
+HTML:
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=">
+  <title></title>
+</head>
+<body>
+  <h1> Példák listákra </h1>
+  <br>
+  <ol>
+    <h2><li>példa</li></h2> 
+    <ol><li> tervezés </li> <li> implementálás </li> <li> tesztelés </li></ol>
+    
+    <h2><li>példa</li></h2> 
+    <ol> <ol start="2020"> <li>HU</li> <li>CZ</li> <li>EN</li> <li>UK</li> </ol start="2020"></ol>
+    
+    <h2><li>példa</li></h2>
+    <ul>
+      <li>Számítógépház</li>
+      <ul><li>Alaplap</li> <li>Processzor</li> <li>Memória</li></ul>
+      <li>Monitor</li>
+      <ol><li>4:3 SVGA - 1280x1024</li> <li>16:9 HD ready - 1280x720</li> <li>16:9 FullHD Ready - 1920x1080</li></ol>
+      <li>Billentyűzet</li>
+    </ul>
+    
+     
+  </ol>
+  
+  
+  
+</body>
+</html>
